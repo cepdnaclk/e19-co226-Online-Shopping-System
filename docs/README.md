@@ -14,9 +14,8 @@ Communication is at the heart of e-commerce and community
 
 ---
 
-<!-- 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-(https://github.com/cepdnaclk/e19-co226-Online-Shopping-System/assets/111074993/920fdba8-38bb-486f-8da5-54d9dc0a3a8f)
+
+<img src="https://github.com/cepdnaclk/e19-co226-Online-Shopping-System/assets/111074993/920fdba8-38bb-486f-8da5-54d9dc0a3a8f"/>
 
 ![Sample Image](./images/sample.png)
  -->
