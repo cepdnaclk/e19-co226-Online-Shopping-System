@@ -9,8 +9,7 @@ title: SHOPFINITY.COM
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# SHOPFINITY.COM
-### Communication is at the heart of e-commerce and community
+# SHOPFINITY.COM - Communication is at the heart of e-commerce and community
 
 ---
 
