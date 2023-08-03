@@ -15,7 +15,7 @@ Communication is at the heart of e-commerce and community
 ---
 
 
-<img src="https://github.com/cepdnaclk/e19-co226-Online-Shopping-System/assets/111074993/920fdba8-38bb-486f-8da5-54d9dc0a3a8f"/>
+<img src="https://github.com/cepdnaclk/e19-co226-Online-Shopping-System/assets/111074993/920fdba8-38bb-486f-8da5-54d9dc0a3a8f" width = "128"/>
 
 
 
