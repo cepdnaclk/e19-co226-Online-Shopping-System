@@ -4,12 +4,13 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: e19-co226-Online-Shopping-System
-title: Online Shopping System
+title: SHOPFINITY.COM
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Online Shopping System
+# SHOPFINITY.COM
+### Communication is at the heart of e-commerce and community
 
 ---
 
