@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e19-co226-Online-Shopping-System
+title: Online Shopping System
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Online Shopping System
 
 ---
 
@@ -20,9 +20,9 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/19/166, Jayathunga W.W.K., [email] (mailto:e19166@eng.pdn.ac.lk)
+-  E/19/324, Rathnayake R.M.B.D.K., [email](mailto:e19324@eng.pdn.ac.lk)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
