@@ -55,26 +55,40 @@ from an e-commerce website. This system can be implemented in any local or
 multinational shop. The services will be provided 24 * 7.
 
 ## Features
-Product Catalog Management: The ability to store and manage information about products, including product names, descriptions, images, prices, and categories.
 
-User Management: Managing user accounts, registration, login, and profile information. This includes handling user authentication and authorization.
+# Product Catalog Management
 
-Shopping Cart: Storing and managing the items that a user adds to their shopping cart while browsing products.
+- The ability to store and manage information about products, including product names, descriptions, images, prices, and categories.
 
-Order Processing: Storing and processing customer orders, including order details, order status, shipping information, and payment processing.
+# User Management
+- Managing user accounts, registration, login, and profile information. This includes handling user authentication and authorization.
 
-Inventory Management: Tracking product availability and managing inventory levels to prevent overselling or stockouts.
+# Shopping Cart
+- Storing and managing the items that a user adds to their shopping cart while browsing products.
 
-Search and Filtering: Providing search functionality that allows users to search for products based on keywords, categories, or other criteria.
+# Order Processing
+- Storing and processing customer orders, including order details, order status, shipping information, and payment processing.
 
-Wishlist: Allowing users to create and manage lists of products they are interested in purchasing in the future.
+# Inventory Management
+- Tracking product availability and managing inventory levels to prevent overselling or stockouts.
 
-Reviews and Ratings: Collecting and displaying customer reviews and ratings for products, helping other customers make informed decisions.
-Payment Processing: Handling secure payment transactions, integrating with payment gateways, and managing payment statuses.
+# Search and Filtering
+- Providing search functionality that allows users to search for products based on keywords, categories, or other criteria.
 
-Security: Implementing security measures to protect user data, prevent unauthorized access, and secure payment transactions.
+# Wishlist
+- Allowing users to create and manage lists of products they are interested in purchasing in the future.
 
-Admin Dashboard: Providing an interface for administrators to manage products, orders, users, and other aspects of the e-commerce platform.
+# Reviews and Ratings
+- Collecting and displaying customer reviews and ratings for products, helping other customers make informed decisions.
+  
+# Payment Processing
+- Handling secure payment transactions, integrating with payment gateways, and managing payment statuses.
+
+# Security
+- Implementing security measures to protect user data, prevent unauthorized access, and secure payment transactions.
+
+# Admin Dashboard
+- Providing an interface for administrators to manage products, orders, users, and other aspects of the e-commerce platform.
 
 ## Links
 - [Project Report](https://drive.google.com/file/d/1fkoQoXMYwPwW2VFuE6D5AG-eIdvpRogu/view?usp=sharing)
