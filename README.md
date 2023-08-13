@@ -75,9 +75,6 @@ Inventory Management
 Search and Filtering
 -  Providing search functionality that allows users to search for products based on keywords, categories, or other criteria.
 
-Wishlist
--  Allowing users to create and manage lists of products they are interested in purchasing in the future.
-
 Reviews and Ratings
 -  Collecting and displaying customer reviews and ratings for products, helping other customers make informed decisions.
   
