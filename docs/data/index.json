@@ -1,0 +1,26 @@
+{
+    "team": [
+        {
+            "name": "Jayathunga W.W.K.",
+            "email": "e19166@eng.pdn.ac.lk",
+            "eNumber": "E/19/166"
+        },
+        {
+            "name": "Rathnayake R.M.B.D.K.",
+            "email": "e19324@eng.pdn.ac.lk",
+            "eNumber": "E/19/324"
+        }
+       
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Eng. Kamalanath Samarakoon",
+            "email": "kamalanath@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. Manjula Sandirigama",
+            "email": "manjula.sandirigama@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": ["DBMS"]
+}
