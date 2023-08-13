@@ -94,17 +94,17 @@ Accessing the Platform
 
 Browsing and Searching
 - Home Page
-        Explore featured products, deals, and categories.
-        Scroll through a carousel of top products.
+        - Explore featured products, deals, and categories.
+        - Scroll through a carousel of top products.
 - Product Search
-        Use the search bar to find specific products.
-        Filter and sort results based on criteria such as price, brand, and rating.
+        - Use the search bar to find specific products.
+        - Filter and sort results based on criteria such as price, brand, and rating.
 
 Product Details
 - Click on a product to view its details page.
 - Product Details Page
-        See product images, descriptions, specifications, and customer reviews.
-        Choose variations (size, color, quantity).
+        - See product images, descriptions, specifications, and customer reviews.
+        - Choose variations (size, color, quantity).
 
 Adding to Cart
 - From the product details page, click "Add to Cart."
@@ -113,19 +113,19 @@ Adding to Cart
 
 Checkout
 - Cart Summary
-        Review selected items, quantities, and prices.
+        - Review selected items, quantities, and prices.
 - Payment
-        Enter payment details (credit/debit card, PayPal, etc.).
-        Review order total and confirm payment.
+        - Enter payment details (credit/debit card, PayPal, etc.).
+        - Review order total and confirm payment.
 
 Order Confirmation
 - Receive an order confirmation page.
 
 Account Management
 - View and Edit Profile
-        Update personal information, address, and contact details.
+        - Update personal information, address, and contact details.
 - Order History
-        Access a list of past orders and their details.
+        - Access a list of past orders and their details.
 
 Logout
 - Click on "Logout" to securely log out of your account.
