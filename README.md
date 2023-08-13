@@ -4,6 +4,10 @@ ___
 
 <p>The Online Shopping Database Management System (OSDMS) streamlines e-commerce operations with real-time product updates, automated inventory tracking, and secure payment integration. It simplifies order processing, enhances customer satisfaction, and offers valuable data analytics for informed decision-making.</p>
 
+## Team
+-  E/19/166, Jayathunga W.W.K., [email](mailto:e19166@eng.pdn.ac.lk)
+-  E/19/324, Rathnayake R.M.B.D.K., [email](mailto:e19324@eng.pdn.ac.lk)
+
 ## License
 [MIT License](LICENSE)
 ___
