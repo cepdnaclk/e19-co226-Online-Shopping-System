@@ -55,7 +55,6 @@ from an e-commerce website. This system can be implemented in any local or
 multinational shop. The services will be provided 24 * 7.
 
 ## Features
-
 Product Catalog Management
 
 -  The ability to store and manage information about products, including product names, descriptions, images, prices, and categories.
