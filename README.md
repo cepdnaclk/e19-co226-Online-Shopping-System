@@ -54,6 +54,13 @@ This is a web-based application that allows customers to browse and purchase pro
 from an e-commerce website. This system can be implemented in any local or 
 multinational shop. The services will be provided 24 * 7.
 
+## Links
+- [Project Report](https://drive.google.com/file/d/1fkoQoXMYwPwW2VFuE6D5AG-eIdvpRogu/view?usp=sharing)
+- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
+- [University of Peradeniya](https://eng.pdn.ac.lk/)
+
 ## License
 [MIT License](LICENSE)
 ___
