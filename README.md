@@ -57,7 +57,7 @@ multinational shop. The services will be provided 24 * 7.
 ## Links
 - [Project Report](https://drive.google.com/file/d/1fkoQoXMYwPwW2VFuE6D5AG-eIdvpRogu/view?usp=sharing)
 - [Project Repository](https://github.com/cepdnaclk/e19-co226-Online-Shopping-System)
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/e19-co226-Online-Shopping-System/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
