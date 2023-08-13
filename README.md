@@ -87,6 +87,53 @@ Security
 Admin Dashboard
 -  Providing an interface for administrators to manage products, orders, users, and other aspects of the e-commerce platform.
 
+## Usage
+Accessing the Platform
+- Open a web browser and enter the URL of the online shopping website.
+- Click on the "Sign Up" button to create a new account or "Log In" if you already have an account.
+
+Browsing and Searching
+- Home Page
+        Explore featured products, deals, and categories.
+        Scroll through a carousel of top products.
+- Product Search
+        Use the search bar to find specific products.
+        Filter and sort results based on criteria such as price, brand, and rating.
+
+Product Details
+- Click on a product to view its details page.
+- Product Details Page
+        See product images, descriptions, specifications, and customer reviews.
+        Choose variations (size, color, quantity).
+
+Adding to Cart
+- From the product details page, click "Add to Cart."
+- Review and adjust the items in your cart.
+- Proceed to checkout when ready.
+
+Checkout
+- Cart Summary
+        Review selected items, quantities, and prices.
+- Payment
+        Enter payment details (credit/debit card, PayPal, etc.).
+        Review order total and confirm payment.
+
+Order Confirmation
+- Receive an order confirmation page.
+
+Account Management
+- View and Edit Profile
+        Update personal information, address, and contact details.
+- Order History
+        Access a list of past orders and their details.
+
+Logout
+- Click on "Logout" to securely log out of your account.
+
+Security Tips
+- Keep your login credentials confidential.
+- Use strong passwords and update them periodically.
+
 ## Links
 - [Project Report](https://drive.google.com/file/d/1fkoQoXMYwPwW2VFuE6D5AG-eIdvpRogu/view?usp=sharing)
 - [Project Repository](https://github.com/cepdnaclk/e19-co226-Online-Shopping-System)
