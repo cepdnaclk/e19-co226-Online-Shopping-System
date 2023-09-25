@@ -4,7 +4,7 @@ include('includes/connect.php');
 include('functions/common_function.php');
 session_start();
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html>        
 <html lang = "en">
     <head>
         <meta charset = "UTF-8">
